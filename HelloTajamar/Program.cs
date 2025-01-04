@@ -10,7 +10,7 @@ namespace HelloTajamar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Tajamar");
+            Console.WriteLine("Hello Tajamar, my name is Jorge");
         }
     }
 }
